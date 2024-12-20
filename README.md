@@ -1,8 +1,8 @@
 # R-Shiny-App-University-Rankings-Analysis
 
-# Project Repository
+## Project Repository
 
-# R Shiny App
+### R Shiny App
 To run the R shiny app download the zip file of the repository.
 1. Run the required_packages.R file to install all the packages
 2. Open the app.R file inside ShinyApp folder in R studio.
